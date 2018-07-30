@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,parse5",
+    "logging_enabled": "false",
+    "name": "parse5SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "parse5SmokeTest.js"
+}
