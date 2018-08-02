@@ -63,5 +63,6 @@
     "type": "git",
     "url": "git://github.com/inikulin/parse5.git"
   },
-  "version": "5.0.0"
+  "version": "5.0.0",
+  "image": "https://i.imgur.com/ij9I0h2.png"
 }
